@@ -8,7 +8,7 @@ image is filtered by difference of Gaussian filter;(4)According to the non-linea
 the Perceptual thresholding algorithm is designed to process the results of the Gaussion difference of filtering and obtain
 binary line drawing image.
 
-% =========================================================================================
+% ============================================================================
 
 How to run the codes:
 1.Open the Demo.m file.
