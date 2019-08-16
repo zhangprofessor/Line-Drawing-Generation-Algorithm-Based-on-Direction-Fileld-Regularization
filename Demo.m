@@ -13,7 +13,7 @@
 clc;
 clear all;
 close all;
-Image=imread('\test\baboon.jpg');
+Image=imread('\test\Baboon.jpg');
 
 %% 1.Image Preprocessing Using Nonlocal Mean Filtering
 tic
